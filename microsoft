@@ -1,0 +1,1740 @@
+
+
+6 months
+1. Two Sum
+55.2%
+Easy
+
+88. Merge Sorted Array
+52.4%
+Easy
+
+1768. Merge Strings Alternately
+82.0%
+Easy
+
+2667. Create Hello World Function
+82.0%
+Easy
+
+121. Best Time to Buy and Sell Stock
+54.8%
+Easy
+
+146. LRU Cache
+44.6%
+Med.
+
+2. Add Two Numbers
+45.6%
+Med.
+
+3. Longest Substring Without Repeating Characters
+36.4%
+Med.
+
+42. Trapping Rain Water
+64.4%
+Hard
+
+169. Majority Element
+65.5%
+Easy
+
+9. Palindrome Number
+58.8%
+Easy
+
+200. Number of Islands
+61.7%
+Med.
+
+1757. Recyclable and Low Fat Products
+89.4%
+Easy
+
+49. Group Anagrams
+70.4%
+Med.
+
+5. Longest Palindromic Substring
+35.4%
+Med.
+
+14. Longest Common Prefix
+45.0%
+Easy
+
+560. Subarray Sum Equals K
+45.0%
+Med.
+
+56. Merge Intervals
+48.9%
+Med.
+
+198. House Robber
+52.0%
+Med.
+
+4. Median of Two Sorted Arrays
+43.1%
+Hard
+
+20. Valid Parentheses
+41.9%
+Easy
+
+70. Climbing Stairs
+53.4%
+Easy
+
+75. Sort Colors
+66.5%
+Med.
+
+15. 3Sum
+36.5%
+Med.
+
+23. Merge k Sorted Lists
+56.0%
+Hard
+
+27. Remove Element
+59.6%
+Easy
+
+53. Maximum Subarray
+51.8%
+Med.
+
+54. Spiral Matrix
+53.1%
+Med.
+
+224. Basic Calculator
+45.0%
+Hard
+
+283. Move Zeroes
+62.6%
+Easy
+
+347. Top K Frequent Elements
+64.2%
+Med.
+
+11. Container With Most Water
+57.3%
+Med.
+
+21. Merge Two Sorted Lists
+66.4%
+Easy
+
+48. Rotate Image
+77.3%
+Med.
+
+128. Longest Consecutive Sequence
+47.2%
+Med.
+
+155. Min Stack
+56.0%
+Med.
+
+206. Reverse Linked List
+78.7%
+Easy
+
+33. Search in Rotated Sorted Array
+42.4%
+Med.
+
+215. Kth Largest Element in an Array
+67.7%
+Med.
+
+253. Meeting Rooms II
+52.0%
+Med.
+
+994. Rotting Oranges
+56.1%
+Med.
+
+3377. Digit Operations to Make Two Integers Equal
+33.2%
+Med.
+
+26. Remove Duplicates from Sorted Array
+59.6%
+Easy
+
+51. N-Queens
+71.8%
+Hard
+
+136. Single Number
+75.4%
+Easy
+
+3393. Count Paths With the Given XOR Value
+39.3%
+Med.
+
+13. Roman to Integer
+64.3%
+Easy
+
+31. Next Permutation
+42.4%
+Med.
+
+35. Search Insert Position
+48.5%
+Easy
+
+39. Combination Sum
+74.1%
+Med.
+
+55. Jump Game
+39.2%
+Med.
+
+103. Binary Tree Zigzag Level Order Traversal
+61.1%
+Med.
+
+151. Reverse Words in a String
+50.4%
+Med.
+
+238. Product of Array Except Self
+67.4%
+Med.
+
+242. Valid Anagram
+66.2%
+Easy
+
+1466. Reorder Routes to Make All Paths Lead to the City Zero
+64.8%
+Med.
+
+7. Reverse Integer
+29.9%
+Med.
+
+17. Letter Combinations of a Phone Number
+63.2%
+Med.
+
+18. 4Sum
+37.7%
+Med.
+
+76. Minimum Window Substring
+44.8%
+Hard
+
+93. Restore IP Addresses
+52.5%
+Med.
+
+98. Validate Binary Search Tree
+34.0%
+Med.
+
+139. Word Break
+47.9%
+Med.
+
+189. Rotate Array
+42.5%
+Med.
+
+210. Course Schedule II
+52.8%
+Med.
+
+219. Contains Duplicate II
+48.3%
+Easy
+
+273. Integer to English Words
+34.3%
+Hard
+
+2235. Add Two Integers
+88.1%
+Easy
+
+19. Remove Nth Node From End of List
+48.2%
+Med.
+
+22. Generate Parentheses
+76.6%
+Med.
+
+25. Reverse Nodes in k-Group
+62.2%
+Hard
+
+34. Find First and Last Position of Element in Sorted Array
+46.3%
+Med.
+
+46. Permutations
+80.2%
+Med.
+
+50. Pow(x, n)
+36.6%
+Med.
+
+59. Spiral Matrix II
+73.0%
+Med.
+
+72. Edit Distance
+58.3%
+Med.
+
+74. Search a 2D Matrix
+51.9%
+Med.
+
+79. Word Search
+44.7%
+Med.
+
+138. Copy List with Random Pointer
+59.7%
+Med.
+
+205. Isomorphic Strings
+46.5%
+Easy
+
+207. Course Schedule
+48.6%
+Med.
+
+345. Reverse Vowels of a String
+57.3%
+Easy
+
+349. Intersection of Two Arrays
+76.1%
+Easy
+
+380. Insert Delete GetRandom O(1)
+54.9%
+Med.
+
+739. Daily Temperatures
+67.0%
+Med.
+
+916. Word Subsets
+55.6%
+Med.
+
+3139. Minimum Cost to Equalize Array
+17.9%
+Hard
+
+12. Integer to Roman
+68.0%
+Med.
+
+28. Find the Index of the First Occurrence in a String
+44.6%
+Easy
+
+41. First Missing Positive
+40.7%
+Hard
+
+69. Sqrt(x)
+40.1%
+Easy
+
+73. Set Matrix Zeroes
+59.1%
+Med.
+
+84. Largest Rectangle in Histogram
+46.7%
+Hard
+
+102. Binary Tree Level Order Traversal
+69.9%
+Med.
+
+142. Linked List Cycle II
+54.1%
+Med.
+
+162. Find Peak Element
+46.4%
+Med.
+
+167. Two Sum II - Input Array Is Sorted
+63.0%
+Med.
+
+236. Lowest Common Ancestor of a Binary Tree
+65.8%
+Med.
+
+287. Find the Duplicate Number
+62.4%
+Med.
+
+297. Serialize and Deserialize Binary Tree
+58.4%
+Hard
+
+300. Longest Increasing Subsequence
+57.3%
+Med.
+
+2401. Longest Nice Subarray
+64.7%
+Med.
+
+460. LFU Cache
+46.0%
+Hard
+
+494. Target Sum
+50.4%
+Med.
+
+981. Time Based Key-Value Store
+49.4%
+Med.
+
+1071. Greatest Common Divisor of Strings
+52.6%
+Easy
+
+1531. String Compression II
+52.1%
+Hard
+
+1800. Maximum Ascending Subarray Sum
+66.5%
+Easy
+
+10. Regular Expression Matching
+29.0%
+Hard
+
+44. Wildcard Matching
+29.5%
+Hard
+
+45. Jump Game II
+41.2%
+Med.
+
+62. Unique Paths
+65.5%
+Med.
+
+64. Minimum Path Sum
+66.0%
+Med.
+
+67. Add Binary
+55.3%
+Easy
+
+78. Subsets
+80.4%
+Med.
+
+100. Same Tree
+64.5%
+Easy
+
+131. Palindrome Partitioning
+71.5%
+Med.
+
+134. Gas Station
+46.0%
+Med.
+
+143. Reorder List
+61.7%
+Med.
+
+160. Intersection of Two Linked Lists
+60.4%
+Easy
+
+202. Happy Number
+57.6%
+Easy
+
+213. House Robber II
+43.2%
+Med.
+
+279. Perfect Squares
+55.5%
+Med.
+
+292. Nim Game
+57.9%
+Easy
+
+322. Coin Change
+45.9%
+Med.
+
+348. Design Tic-Tac-Toe
+58.5%
+Med.
+
+392. Is Subsequence
+48.2%
+Easy
+
+394. Decode String
+60.8%
+Med.
+
+443. String Compression
+57.4%
+Med.
+
+502. IPO
+53.0%
+Hard
+
+567. Permutation in String
+46.9%
+Med.
+
+584. Find Customer Referee
+71.6%
+Easy
+
+605. Can Place Flowers
+28.8%
+Easy
+
+735. Asteroid Collision
+45.2%
+Med.
+
+815. Bus Routes
+47.0%
+Hard
+
+875. Koko Eating Bananas
+48.9%
+Med.
+
+509. Fibonacci Number
+72.6%
+Easy
+
+2877. Create a DataFrame from List
+81.5%
+Easy
+
+992. Subarrays with K Different Integers
+65.2%
+Hard
+
+1004. Max Consecutive Ones III
+65.4%
+Med.
+
+1378. Replace Employee ID With The Unique Identifier
+83.6%
+Easy
+
+8. String to Integer (atoi)
+18.8%
+Med.
+
+24. Swap Nodes in Pairs
+66.6%
+Med.
+
+29. Divide Two Integers
+18.2%
+Med.
+
+58. Length of Last Word
+55.6%
+Easy
+
+66. Plus One
+47.1%
+Easy
+
+80. Remove Duplicates from Sorted Array II
+62.3%
+Med.
+
+94. Binary Tree Inorder Traversal
+78.1%
+Easy
+
+97. Interleaving String
+41.5%
+Med.
+
+99. Recover Binary Search Tree
+55.6%
+Med.
+
+2017. Grid Game
+61.1%
+Med.
+
+208. Implement Trie (Prefix Tree)
+67.6%
+Med.
+
+217. Contains Duplicate
+62.9%
+Easy
+
+225. Implement Stack using Queues
+66.6%
+Easy
+
+227. Basic Calculator II
+45.3%
+Med.
+
+239. Sliding Window Maximum
+47.3%
+Hard
+
+2206. Divide Array Into Equal Pairs
+79.2%
+Easy
+
+268. Missing Number
+69.5%
+Easy
+
+271. Encode and Decode Strings
+49.1%
+Med.
+
+274. H-Index
+40.0%
+Med.
+
+316. Remove Duplicate Letters
+50.9%
+Med.
+
+334. Increasing Triplet Subsequence
+39.2%
+Med.
+
+338. Counting Bits
+79.4%
+Easy
+
+367. Valid Perfect Square
+44.1%
+Easy
+
+383. Ransom Note
+64.0%
+Easy
+
+387. First Unique Character in a String
+63.3%
+Easy
+
+412. Fizz Buzz
+74.0%
+Easy
+
+438. Find All Anagrams in a String
+51.9%
+Med.
+
+518. Coin Change II
+63.0%
+Med.
+
+540. Single Element in a Sorted Array
+59.1%
+Med.
+
+733. Flood Fill
+65.9%
+Easy
+
+704. Binary Search
+59.2%
+Easy
+
+876. Middle of the Linked List
+80.2%
+Easy
+
+528. Random Pick with Weight
+48.3%
+Med.
+
+904. Fruit Into Baskets
+45.7%
+Med.
+
+1143. Longest Common Subsequence
+58.0%
+Med.
+
+1148. Article Views I
+77.2%
+Easy
+
+1405. Longest Happy String
+65.5%
+Med.
+
+3151. Special Array I
+82.1%
+Easy
+
+1251. Average Selling Price
+36.9%
+Easy
+
+1431. Kids With the Greatest Number of Candies
+88.0%
+Easy
+
+6. Zigzag Conversion
+50.9%
+Med.
+
+30. Substring with Concatenation of All Words
+32.8%
+Hard
+
+32. Longest Valid Parentheses
+35.8%
+Hard
+
+36. Valid Sudoku
+61.8%
+Med.
+
+37. Sudoku Solver
+63.7%
+Hard
+
+1975. Maximum Matrix Sum
+66.0%
+Med.
+
+83. Remove Duplicates from Sorted List
+54.4%
+Easy
+
+90. Subsets II
+59.0%
+Med.
+
+112. Path Sum
+52.5%
+Easy
+
+123. Best Time to Buy and Sell Stock III
+50.4%
+Hard
+
+125. Valid Palindrome
+50.3%
+Easy
+
+135. Candy
+44.4%
+Hard
+
+148. Sort List
+61.1%
+Med.
+
+150. Evaluate Reverse Polish Notation
+54.2%
+Med.
+
+152. Maximum Product Subarray
+34.6%
+Med.
+
+165. Compare Version Numbers
+42.0%
+Med.
+
+168. Excel Sheet Column Title
+43.0%
+Easy
+
+171. Excel Sheet Column Number
+65.4%
+Easy
+
+173. Binary Search Tree Iterator
+74.4%
+Med.
+
+197. Rising Temperature
+49.9%
+Easy
+
+204. Count Primes
+34.5%
+Med.
+
+2161. Partition Array According to Given Pivot
+90.0%
+Med.
+
+222. Count Complete Tree Nodes
+69.1%
+Easy
+
+240. Search a 2D Matrix II
+54.5%
+Med.
+
+2185. Counting Words With a Given Prefix
+84.5%
+Easy
+
+269. Alien Dictionary
+36.5%
+Hard
+
+277. Find the Celebrity
+48.2%
+Med.
+
+291. Word Pattern II
+48.6%
+Med.
+
+2270. Number of Ways to Split Array
+56.1%
+Med.
+
+317. Shortest Distance from All Buildings
+43.9%
+Hard
+
+395. Longest Substring with At Least K Repeating Characters
+45.4%
+Med.
+
+416. Partition Equal Subset Sum
+47.3%
+Med.
+
+432. All O`one Data Structure
+44.8%
+Hard
+
+455. Assign Cookies
+53.5%
+Easy
+
+2429. Minimize XOR
+62.5%
+Med.
+
+485. Max Consecutive Ones
+61.9%
+Easy
+
+493. Reverse Pairs
+31.8%
+Hard
+
+496. Next Greater Element I
+74.0%
+Easy
+
+503. Next Greater Element II
+65.7%
+Med.
+
+2493. Divide Nodes Into the Maximum Number of Groups
+67.6%
+Hard
+
+595. Big Countries
+68.2%
+Easy
+
+629. K Inverse Pairs Array
+49.1%
+Hard
+
+2559. Count Vowel Strings in Ranges
+67.9%
+Med.
+
+2560. House Robber IV
+65.2%
+Med.
+
+653. Two Sum IV - Input is a BST
+62.0%
+Easy
+
+2620. Counter
+82.1%
+Easy
+
+695. Max Area of Island
+73.0%
+Med.
+
+2658. Maximum Number of Fish in a Grid
+70.7%
+Med.
+
+2685. Count the Number of Complete Components
+78.6%
+Med.
+
+2704. To Be Or Not To Be
+62.8%
+Easy
+
+771. Jewels and Stones
+89.1%
+Easy
+
+802. Find Eventual Safe States
+68.0%
+Med.
+
+827. Making A Large Island
+54.3%
+Hard
+
+836. Rectangle Overlap
+45.5%
+Easy
+
+873. Length of Longest Fibonacci Subsequence
+57.7%
+Med.
+
+2938. Separate Black and White Balls
+64.7%
+Med.
+
+1072. Flip Columns For Maximum Number of Equal Rows
+78.5%
+Med.
+
+1068. Product Sales Analysis I
+84.1%
+Easy
+
+2965. Find Missing and Repeated Values
+84.0%
+Easy
+
+1106. Parsing A Boolean Expression
+70.0%
+Hard
+
+3011. Find if Array Can Be Sorted
+67.0%
+Med.
+
+3108. Minimum Cost Walk in Weighted Graph
+69.0%
+Hard
+
+3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+65.3%
+Easy
+
+1235. Maximum Profit in Job Scheduling
+54.3%
+Hard
+
+3163. String Compression III
+68.1%
+Med.
+
+1344. Angle Between Hands of a Clock
+64.1%
+Med.
+
+3243. Shortest Distance After Road Addition Queries I
+62.5%
+Med.
+
+1401. Circle and Rectangle Overlapping
+48.6%
+Med.
+
+1482. Minimum Number of Days to Make m Bouquets
+55.3%
+Med.
+
+3420. Count Non-Decreasing Subarrays After K Operations
+21.5%
+Hard
+
+1593. Split a String Into the Max Number of Unique Substrings
+68.3%
+Med.
+
+1749. Maximum Absolute Sum of Any Subarray
+71.5%
+Med.
+
+1824. Minimum Sideway Jumps
+50.6%
+Med.
+
+1838. Frequency of the Most Frequent Element
+44.0%
+Med.
+
+1910. Remove All Occurrences of a Substring
+78.0%
+Med.
+
+16. 3Sum Closest
+46.6%
+Med.
+
+38. Count and Say
+58.0%
+Med.
+
+1934. Confirmation Rate
+60.7%
+Med.
+
+43. Multiply Strings
+41.9%
+Med.
+
+52. N-Queens II
+76.1%
+Hard
+
+57. Insert Interval
+43.0%
+Med.
+
+1980. Find Unique Binary String
+79.4%
+Med.
+
+65. Valid Number
+21.2%
+Hard
+
+71. Simplify Path
+46.8%
+Med.
+
+1922. Count Good Numbers
+48.5%
+Med.
+
+77. Combinations
+72.4%
+Med.
+
+1971. Find if Path Exists in Graph
+53.9%
+Easy
+
+82. Remove Duplicates from Sorted List II
+49.3%
+Med.
+
+86. Partition List
+58.4%
+Med.
+
+1942. The Number of the Smallest Unoccupied Chair
+60.6%
+Med.
+
+104. Maximum Depth of Binary Tree
+76.8%
+Easy
+
+113. Path Sum II
+60.1%
+Med.
+
+114. Flatten Binary Tree to Linked List
+67.8%
+Med.
+
+115. Distinct Subsequences
+49.5%
+Hard
+
+2054. Two Best Non-Overlapping Events
+61.1%
+Med.
+
+117. Populating Next Right Pointers in Each Node II
+55.0%
+Med.
+
+118. Pascal's Triangle
+76.5%
+Easy
+
+122. Best Time to Buy and Sell Stock II
+69.0%
+Med.
+
+124. Binary Tree Maximum Path Sum
+41.0%
+Hard
+
+126. Word Ladder II
+27.1%
+Hard
+
+127. Word Ladder
+42.0%
+Hard
+
+2044. Count Number of Maximum Bitwise-OR Subsets
+88.0%
+Med.
+
+129. Sum Root to Leaf Numbers
+68.0%
+Med.
+
+130. Surrounded Regions
+42.2%
+Med.
+
+2058. Find the Minimum and Maximum Number of Nodes Between Critical Points
+69.6%
+Med.
+
+141. Linked List Cycle
+52.1%
+Easy
+
+149. Max Points on a Line
+28.5%
+Hard
+
+153. Find Minimum in Rotated Sorted Array
+52.2%
+Med.
+
+154. Find Minimum in Rotated Sorted Array II
+44.0%
+Hard
+
+2061. Number of Spaces Cleaning Robot Cleaned
+62.5%
+Med.
+
+172. Factorial Trailing Zeroes
+44.5%
+Med.
+
+175. Combine Two Tables
+77.7%
+Easy
+
+176. Second Highest Salary
+43.1%
+Med.
+
+178. Rank Scores
+64.7%
+Med.
+
+179. Largest Number
+40.9%
+Med.
+
+2104. Sum of Subarray Ranges
+60.2%
+Med.
+
+181. Employees Earning More Than Their Managers
+71.1%
+Easy
+
+182. Duplicate Emails
+72.2%
+Easy
+
+183. Customers Who Never Order
+70.4%
+Easy
+
+2109. Adding Spaces to a String
+71.7%
+Med.
+
+188. Best Time to Buy and Sell Stock IV
+46.2%
+Hard
+
+191. Number of 1 Bits
+73.9%
+Easy
+
+203. Remove Linked List Elements
+51.3%
+Easy
+
+40. Combination Sum II
+57.3%
+Med.
+
+211. Design Add and Search Words Data Structure
+46.8%
+Med.
+
+209. Minimum Size Subarray Sum
+48.9%
+Med.
+
+221. Maximal Square
+48.3%
+Med.
+
+2149. Rearrange Array Elements by Sign
+84.2%
+Med.
+
+229. Majority Element II
+53.8%
+Med.
+
+231. Power of Two
+48.2%
+Easy
+
+234. Palindrome Linked List
+55.3%
+Easy
+
+47. Permutations II
+61.1%
+Med.
+
+263. Ugly Number
+42.3%
+Easy
+
+266. Palindrome Permutation
+68.4%
+Easy
+
+2220. Minimum Bit Flips to Convert Number
+87.5%
+Easy
+
+278. First Bad Version
+45.6%
+Easy
+
+290. Word Pattern
+42.8%
+Easy
+
+295. Find Median from Data Stream
+53.0%
+Hard
+
+301. Remove Invalid Parentheses
+49.0%
+Hard
+
+304. Range Sum Query 2D - Immutable
+56.1%
+Med.
+
+2246. Longest Path With Different Adjacent Characters
+54.0%
+Hard
+
+340. Longest Substring with At Most K Distinct Characters
+49.4%
+Med.
+
+354. Russian Doll Envelopes
+37.2%
+Hard
+
+372. Super Pow
+35.3%
+Med.
+
+389. Find the Difference
+59.6%
+Easy
+
+402. Remove K Digits
+34.5%
+Med.
+
+2385. Amount of Time for Binary Tree to Be Infected
+63.2%
+Med.
+
+415. Add Strings
+51.8%
+Easy
+
+2390. Removing Stars From a String
+77.5%
+Med.
+
+2342. Max Sum of a Pair With Equal Sum of Digits
+66.0%
+Med.
+
+442. Find All Duplicates in an Array
+76.3%
+Med.
+
+445. Add Two Numbers II
+61.7%
+Med.
+
+448. Find All Numbers Disappeared in an Array
+62.1%
+Easy
+
+453. Minimum Moves to Equal Array Elements
+57.5%
+Med.
+
+468. Validate IP Address
+27.7%
+Med.
+
+486. Predict the Winner
+55.6%
+Med.
+
+498. Diagonal Traverse
+62.6%
+Med.
+
+515. Find Largest Value in Each Tree Row
+66.4%
+Med.
+
+525. Contiguous Array
+49.0%
+Med.
+
+2491. Divide Players Into Teams of Equal Skill
+69.0%
+Med.
+
+535. Encode and Decode TinyURL
+86.6%
+Med.
+
+539. Minimum Time Difference
+62.3%
+Med.
+
+541. Reverse String II
+51.8%
+Easy
+
+556. Next Greater Element III
+34.4%
+Med.
+
+570. Managers with at Least 5 Direct Reports
+49.1%
+Med.
+
+2598. Smallest Missing Non-negative Integer After Operations
+39.6%
+Med.
+
+2594. Minimum Time to Repair Cars
+60.3%
+Med.
+
+621. Task Scheduler
+61.1%
+Med.
+
+642. Design Search Autocomplete System
+49.3%
+Hard
+
+645. Set Mismatch
+44.8%
+Easy
+
+647. Palindromic Substrings
+71.3%
+Med.
+
+657. Robot Return to Origin
+76.1%
+Easy
+
+658. Find K Closest Elements
+48.4%
+Med.
+
+2577. Minimum Time to Visit a Cell In a Grid
+57.1%
+Hard
+
+2601. Prime Subtraction Operation
+55.8%
+Med.
+
+670. Maximum Swap
+51.7%
+Med.
+
+682. Baseball Game
+78.3%
+Easy
+
+689. Maximum Sum of 3 Non-Overlapping Subarrays
+59.4%
+Hard
+
+696. Count Binary Substrings
+65.8%
+Easy
+
+713. Subarray Product Less Than K
+52.5%
+Med.
+
+714. Best Time to Buy and Sell Stock with Transaction Fee
+70.0%
+Med.
+
+2657. Find the Prefix Common Array of Two Arrays
+87.7%
+Med.
+
+746. Min Cost Climbing Stairs
+66.9%
+Easy
+
+429. N-ary Tree Level Order Traversal
+71.2%
+Med.
+
+767. Reorganize String
+55.8%
+Med.
+
+769. Max Chunks To Make Sorted
+63.9%
+Med.
+
+787. Cheapest Flights Within K Stops
+40.1%
+Med.
+
+791. Custom Sort String
+71.8%
+Med.
+
+2816. Double a Number Represented as a Linked List
+61.5%
+Med.
+
+851. Loud and Rich
+61.0%
+Med.
+
+852. Peak Index in a Mountain Array
+67.7%
+Med.
+
+862. Shortest Subarray with Sum at Least K
+32.2%
+Hard
+
+867. Transpose Matrix
+73.8%
+Easy
+
+889. Construct Binary Tree from Preorder and Postorder Traversal
+78.0%
+Med.
+
+909. Snakes and Ladders
+44.1%
+Med.
+
+912. Sort an Array
+57.0%
+Med.
+
+931. Minimum Falling Path Sum
+61.9%
+Med.
+
+962. Maximum Width Ramp
+55.6%
+Med.
+
+974. Subarray Sums Divisible by K
+55.5%
+Med.
+
+977. Squares of a Sorted Array
+73.1%
+Easy
+
+986. Interval List Intersections
+72.5%
+Med.
+
+1008. Construct Binary Search Tree from Preorder Traversal
+83.1%
+Med.
+
+1021. Remove Outermost Parentheses
+85.0%
+Easy
+
+1027. Longest Arithmetic Subsequence
+49.4%
+Med.
+
+1028. Recover a Tree From Preorder Traversal
+83.3%
+Hard
+
+1046. Last Stone Weight
+65.8%
+Easy
+
+1047. Remove All Adjacent Duplicates In String
+71.2%
+Easy
+
+2962. Count Subarrays Where Max Element Appears at Least K Times
+58.7%
+Med.
+
+1092. Shortest Common Supersequence
+61.3%
+Hard
+
+2970. Count the Number of Incremovable Subarrays I
+55.2%
+Easy
+
+2981. Find Longest Special Substring That Occurs Thrice I
+62.3%
+Med.
+
+1169. Invalid Transactions
+31.2%
+Med.
+
+1957. Delete Characters to Make Fancy String
+71.7%
+Easy
+
+3097. Shortest Subarray With OR at Least K II
+50.5%
+Med.
+
+2226. Maximum Candies Allocated to K Children
+50.4%
+Med.
+
+3121. Count the Number of Special Characters II
+42.1%
+Med.
+
+1239. Maximum Length of a Concatenated String with Unique Characters
+54.2%
+Med.
+
+1726. Tuple with Same Product
+70.2%
+Med.
+
+1248. Count Number of Nice Subarrays
+72.5%
+Med.
+
+1249. Minimum Remove to Make Valid Parentheses
+70.3%
+Med.
+
+3119. Maximum Number of Potholes That Can Be Fixed
+53.8%
+Med.
+
+3152. Special Array II
+45.7%
+Med.
+
+1275. Find Winner on a Tic Tac Toe Game
+54.1%
+Easy
+
+1283. Find the Smallest Divisor Given a Threshold
+62.8%
+Med.
+
+1306. Jump Game III
+65.8%
+Med.
+
+3208. Alternating Groups II
+59.9%
+Med.
+
+1321. Restaurant Growth
+55.8%
+Med.
+
+1327. List the Products Ordered in a Period
+71.8%
+Easy
+
+1346. Check If N and Its Double Exist
+41.1%
+Easy
+
+1372. Longest ZigZag Path in a Binary Tree
+66.4%
+Med.
+
+1352. Product of the Last K Numbers
+62.9%
+Med.
+
+1400. Construct K Palindrome Strings
+68.8%
+Med.
+
+3264. Final Array State After K Multiplication Operations I
+87.5%
+Easy
+
+1408. String Matching in an Array
+69.9%
+Easy
+
+1443. Minimum Time to Collect All Apples in a Tree
+62.8%
+Med.
+
+1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+68.8%
+Easy
+
+1470. Shuffle the Array
+88.8%
+Easy
+
+1492. The kth Factor of n
+69.3%
+Med.
+
+1480. Running Sum of 1d Array
+87.0%
+Easy
+
+1524. Number of Sub-arrays With Odd Sum
+56.1%
+Med.
+
+1539. Kth Missing Positive Number
+61.8%
+Easy
+
+1614. Maximum Nesting Depth of the Parentheses
+84.2%
+Easy
+
+3477. Fruits Into Baskets II
+50.6%
+Easy
+
+1631. Path With Minimum Effort
+61.0%
+Med.
+
+1633. Percentage of Users Attended a Contest
+58.4%
+Easy
+
+1657. Determine if Two Strings Are Close
+54.1%
+Med.
+
+1667. Fix Names in a Table
+61.1%
+Easy
+
+1683. Invalid Tweets
+85.6%
+Easy
+
+1729. Find Followers Count
+69.5%
+Easy
+
+1731. The Number of Employees Which Report to Each Employee
+51.6%
+Easy
+
+1769. Minimum Number of Operations to Move All Balls to Each Box
+90.3%
+Med.
+
+1790. Check if One String Swap Can Make Strings Equal
+49.5%
+Easy
+
+1839. Longest Substring Of All Vowels in Order
+50.3%
+Med.
+
+Microsoft - LeetCode
